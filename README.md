@@ -1,19 +1,13 @@
 <h2 align="center"><b>DHGSurvey: Dynamic Heterogeneous Graph Representation Learning</b></h2>
 
 <p align="center">
+  <a href="https://ijcai.org/proceedings/2026/0881.pdf"><img src="https://img.shields.io/badge/IJCAI%202026-Paper-1f6feb" alt="IJCAI 2026 Paper"></a>
   <a href="https://github.com/huanliucs/DHGSurvey"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/huanliucs/DHGSurvey/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs Welcome"></a>
   <a href="https://github.com/huanliucs/DHGSurvey/commits"><img src="https://img.shields.io/github/last-commit/huanliucs/DHGSurvey?color=blue" alt="Last Commit"></a>
-  <a href="https://github.com/huanliucs/DHGSurvey/stargazers"><img src="https://img.shields.io/github/stars/huanliucs/DHGSurvey?color=yellow" alt="GitHub Stars"></a>
 </p>
 
 A curated paper list for **Dynamic Heterogeneous Graph Representation Learning**, based on our [IJCAI 2026 survey](https://doi.org/10.24963/ijcai.2026/881).
-
-<p align="center">
-  <a href="https://ijcai.org/proceedings/2026/0881.pdf"><img src="https://img.shields.io/badge/IJCAI%202026-Paper-1f6feb" alt="IJCAI 2026 Paper"></a>
-  <a href="./Slides/DHGSurvey-Slides-IJCAI2026.pdf"><img src="https://img.shields.io/badge/IJCAI%202026-Slides-d73a49" alt="IJCAI 2026 Slides"></a>
-  <a href="./Slides/CNCC2026-DHG.pdf"><img src="https://img.shields.io/badge/CNCC%202026-Tutorial-8A2BE2" alt="CNCC 2026 Tutorial"></a>
-</p>
 
 ⭐ If you find this paper list useful, please consider giving the repository a star to follow future updates.
 
@@ -26,8 +20,20 @@ A curated paper list for **Dynamic Heterogeneous Graph Representation Learning**
 - [Transformer-based Papers](#3-transformer-based-papers)
 - [Application-oriented Papers](#4-application-oriented-papers)
 - [Related Methods and Benchmarks](#5-related-methods-and-benchmarks)
+- [Downstream Task Legend](#downstream-task-legend)
 - [Datasets](#datasets)
 - [Citation](#citation)
+
+## Downstream Task Legend
+
+| Badge | Downstream task | Badge | Downstream task |
+|:---:|---|:---:|---|
+| ![NC](https://img.shields.io/badge/NC-4C78A8) | Node Classification | ![LP](https://img.shields.io/badge/LP-E76F51) | Link Prediction |
+| ![TLP](https://img.shields.io/badge/TLP-D1495B) | Temporal Link Prediction | ![RP](https://img.shields.io/badge/RP-F4A261) | Relation Prediction |
+| ![NClust](https://img.shields.io/badge/NClust-8E6C8A) | Node Clustering | ![AD](https://img.shields.io/badge/AD-D45087) | Anomaly Detection |
+| ![NR](https://img.shields.io/badge/NR-2A9D8F) | Node Regression | ![NP](https://img.shields.io/badge/NP-72B7B2) | Node Prediction |
+
+Application-specific badges use their full task or domain names directly.
 
 ## Paper List
 

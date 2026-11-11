@@ -236,11 +236,13 @@ Official release papers, original data sources, and representative repositories 
 7. **Math-Overflow** — [WSDM 2017] **Motifs in Temporal Networks** [[paper]](https://doi.org/10.1145/3018661.3018731) [[source data]](https://snap.stanford.edu/data/sx-mathoverflow.html) [[STHN]](https://github.com/celi52/STHN)
 8. **TGB 2.0** — [NeurIPS 2024] **TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/fda026cf2423a01fcbcf1e1e43ee9a50-Paper-Datasets_and_Benchmarks_Track.pdf) [[source data]](https://tgb.complexdatalab.com/docs/thg/) [[TGB]](https://github.com/shenyangHuang/TGB)
 
-## Contributing
+## Contact
 
 New papers, code repositories, datasets, and corrections are welcome through issues or pull requests.
+For any questions or feedback, feel free to contact [Huan Liu](mailto:huanliu@hdu.edu.cn).
 
 ## Citation
+
 If you find DHGSurvey useful in your research or applications, please kindly cite:
 
 ```bibtex

@@ -248,6 +248,7 @@ Official release papers, original data sources, and representative repositories 
 ## Contact
 
 New papers, code repositories, datasets, and corrections are welcome through issues or pull requests.
+
 For any questions or feedback, feel free to contact [Huan Liu](mailto:huanliu@hdu.edu.cn).
 
 ## Citation

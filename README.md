@@ -9,9 +9,9 @@
 
 A curated paper list for **Dynamic Heterogeneous Graph Representation Learning**, based on our [IJCAI 2026 survey](https://doi.org/10.24963/ijcai.2026/881).
 
-⭐ If you find this paper list useful, please consider giving the repository a star to follow future updates.
+📑 Slides are available for our [IJCAI 2026 presentation](./Slides/DHGSurvey-Slides-IJCAI2026.pdf) and [CNCC 2026 tutorial](./Slides/CNCC2026-DHG.pdf).
 
-🎓 We gave a tutorial talk at **CNCC 2026** on dynamic heterogeneous graph representation learning. The [tutorial slides](./Slides/CNCC2026-DHG.pdf) are available here.
+⭐ If you find this paper list useful, please consider giving the repository a star to follow future updates.
 
 ## Contents
 

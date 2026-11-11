@@ -241,6 +241,7 @@ Official release papers, original data sources, and representative repositories 
 New papers, code repositories, datasets, and corrections are welcome through issues or pull requests.
 
 ## Citation
+If you find DHGSurvey useful in your research or applications, please kindly cite:
 
 ```bibtex
 @inproceedings{ijcai2026p881,
